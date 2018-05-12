@@ -1,5 +1,8 @@
 _repo: Sanomalehtimiesajoiltani_11967
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aho, Juhani
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11967#Sanomalehtimiesajoiltani
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
